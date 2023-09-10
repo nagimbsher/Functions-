@@ -1,3 +1,23 @@
+//   npm install gh-pages --save-dev
+
+//"homepage":"http://nagimbsher.github.io/register",
+
+//  "predeploy":"npm run build",
+//  "deploy":"gh-pages -d build",
+
+// git dd .
+
+// commit -m "Deployed website"
+
+//  git push 
+
+// npm run build
+
+
+
+
+
+
 // function sayHi(){
 //     console.log("hell")
 //     console.log("Bye")
